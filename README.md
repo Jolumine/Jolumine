@@ -2,9 +2,9 @@
 
 <p align="left"> <a href="https://twitter.com/leo_becker09" target="blank"><img src="https://img.shields.io/twitter/follow/leo_becker09?logo=twitter&style=for-the-badge" alt="leo_becker09" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/Jolumine/exp-trk)
+- 🔭 I’m currently working on School Manager Tool (first looks coming soon)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning Flutter and Dart 
 
 - 📝 I regularly write news about my Project on [Twitter](https://twitter.com/Leo_Becker09)
 
