@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonard Becker</h1>
 <h3 align="center">Self-taught developer from Germany</h3>
 
-- 🔭 I’m currently working on an [Expense Tracker](https://github.com/Jolumine/exp-trk)
+- 🔭 I’m currently working on an [Expense Tracker](https://github.com/Jolumine/exptrk)
 
 - 🔭 I’m currently working on [matrops](https://github.com/Jolumine/matrops)
 
