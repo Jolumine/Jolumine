@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, PyQt**
 
-- 📫 How to reach me **leonardbecker0911@gmail.com**
+- 📫 How to reach me **thepythoncoder01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
